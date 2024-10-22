@@ -3,6 +3,7 @@
 📊 interactive Excel dashboard to analyze the annual sales performance of Vrinda Store. This dashboard was developed using Excel, incorporating features like PivotTables, slicers, and dynamic charts to deliver actionable insights. The dashboard provides key insights into customer demographics, order status, and sales trends across different categories, states, and channels.
 
 Key Insights to Boost Vrinda Store Sales:
+
 🔹 Target Audience: Women are more inclined to shop, accounting for ~69% of purchases.
 
 🔹 Top Locations: Maharashtra, Karnataka, and Uttar Pradesh lead the way.
